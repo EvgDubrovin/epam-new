@@ -1,2 +1,2 @@
 # EPAM
-An introductory pre-course
+An introductory pre-course.
